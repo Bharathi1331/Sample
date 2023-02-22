@@ -1,5 +1,5 @@
 {
-    "name":"visionet/module-market",
+    "name":"visionet/module-sample",
     "description":"basic",
     "type":"magento2-module",
     "license":"proprietary",
@@ -18,7 +18,7 @@
     "registration.php"
     ],
     "psr-4": {
-    "Visionet\\Market\\":""
+    "Visionet\\Sample\\":""
         }
        }
      }
